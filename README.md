@@ -20,7 +20,7 @@ An Initial prototype of a tower defense game built using unity 2021.3.10f
 - Building Editor debugging tools.
 - Using [RequireComponent] to prevent errors.
 - Adding Tooltips to the editor UI to help with game design.
-- How to create prefab variants effectively to minimize productivity.
+- How to create prefab variants effectively to maximize productivity.
 
 ## Roadmap
 
